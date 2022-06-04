@@ -92,4 +92,4 @@ code {
 * [x] fazer 1
 * [x] fazer 2
 * [ ] fazer 3
-* [N] fazer 4
+* [ ] fazer 4
