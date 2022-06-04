@@ -19,3 +19,18 @@ __palavra__ em italico
 \~\~palavra\~\~ em perfurada  
 ~~palavra~~ em perfurada
 
+
+<!-- link -->
+> $[travesso](https://www.travesso.com "travesso...")
+
+<!-- ul -->
+* item 1
+* item 2
+* item 3
+  * valor 1
+  * valor 2
+
+<!-- ol -->
+1. item
+2. item
+3. item
