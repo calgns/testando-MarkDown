@@ -41,6 +41,7 @@ __palavra__ em italico
 <!-- imagens -->
 ![logo Markdown](https://markdown-here.com/img/icon256.png "logo Mark")
 
+<<<<<<< HEAD
 > ## BASH
 ```bash
 npm install sass
@@ -93,3 +94,5 @@ code {
 * [x] fazer 2
 * [ ] fazer 3
 * [ ] fazer 4
+=======
+>>>>>>> parent of 1695e3a (add bash install sass, sass mixin)
