@@ -41,3 +41,25 @@ __palavra__ em italico
 <!-- imagens -->
 ![logo Markdown](https://markdown-here.com/img/icon256.png "logo Mark")
 
+> ## BASH
+```bash
+npm install sass
+npm run start
+```
+
+> ## SASS
+
+```scss
+body{font-family: courier;}
+
+@mixin h1-header{
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1{
+  @include h1-header
+}
+```
+
