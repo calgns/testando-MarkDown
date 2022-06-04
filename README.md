@@ -94,5 +94,3 @@ code {
 * [x] fazer 2
 * [ ] fazer 3
 * [ ] fazer 4
-=======
->>>>>>> parent of 1695e3a (add bash install sass, sass mixin)
