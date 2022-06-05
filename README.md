@@ -7,6 +7,10 @@ aprendendo markdown
 ##### cabeçalho 5 
 ###### cabeçalho 6 
 
+--- 
+palavra 
+---
+
 <!-- italico -->
 \*palavra\* em italico  
 _palavra_ em italico
@@ -16,9 +20,12 @@ _palavra_ em italico
 __palavra__ em italico
 
 <!-- linha no meio -->
-\~\~palavra\~\~ em perfurada  
+\\~\\~palavra\\~\\~ em perfurada  
+
 ~~palavra~~ em perfurada
+
 ---
+
 <!-- link -->
 > $[travesso](https://www.travesso.com "travesso...")
 
@@ -33,7 +40,7 @@ __palavra__ em italico
 1. item
 2. item
 3. item
----
+
 <!-- inline code block -->
 `<p>um bloco de codigo em linha(paragrafo)</p>`
 
@@ -45,7 +52,7 @@ __palavra__ em italico
 npm install sass
 npm run start
 ```
----
+
 > ## SASS
 
 ```scss
