@@ -106,3 +106,12 @@ code {
 + um
 - dois
 * tres
+
+---
+texto
+====
+texto2
+===
+## textando o revert --no-edit
+#### para ver se fuciona
+##### bla bla bla
