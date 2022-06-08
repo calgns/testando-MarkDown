@@ -7,46 +7,45 @@ aprendendo markdown
 ##### cabeçalho 5 
 ###### cabeçalho 6 
 
-<!-- italico -->
+> ## italico 
 \*palavra\* em italico  
 _palavra_ em italico
 
-<!-- dobre e será strong -->
-\*\*palavra\*\* em strong 
+> ## dobre e será strong 
+\*\*palavra\*\* em strong  
 __palavra__ em strong
 
-<!-- linha no meio -->
+> ## Linha No Meio 
 \~\~palavra\~\~ perfurada  
-
 ~~palavra~~ perfurada
 
-<!-- link -->
+> ## link 
 > $[travesso](https://www.travesso.com "travesso...") 
-### pt-br
+### português
 > [**Guia de Markdown**][2] [~~wiki do markdown~~][1]
-### en
->[~~Markdown-wiki~~][1]. [**Markdown-guide**][2] 
+### inglês
+> [**Markdown-guide**][2] [~~Markdown-wiki~~][1]. 
 
 [1]: http://en.wikipedia.org/wiki/Markdown  "Markdow"
 [2]: https://markdown-guide.readthedocs.io "markdown-guide"
+---
 
-
-<!-- ul -->
+> # ul 
 * item 1
 * item 2
 * item 3
   * valor 1
   * valor 2
 
-<!-- ol -->
+> ## ol 
 1. item
 2. item
 3. item
 
-<!-- inline code block -->
+> ## inline code block 
 `<p>um bloco de codigo em linha(paragrafo)</p>`
 
-<!-- imagem -->
+> ## imagem 
 ![logo Markdown](https://markdown-here.com/img/icon256.png "logo Mark")
 ---
 > ## BASH
@@ -90,13 +89,14 @@ code {
 
 ```
 
-<!-- table -->
+> ## table 
 | Name      |Email|
 |-----------|----------|
 |john long  |jonh@mail.com|
-|young jong |young@mail.com|
+|young jong |young@mail.com|  
 
-<!-- lista de tarefas -->
+
+> ## lista de tarefas 
 * [x] fazer 1
 * [x] fazer 2
 * [ ] fazer 3
