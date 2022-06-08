@@ -23,9 +23,9 @@ __palavra__ em strong
 <!-- link -->
 > $[travesso](https://www.travesso.com "travesso...") 
 ### pt-br
-> [guia de Markdown][2] [wiki do markdown][1]
+> [**Guia de Markdown**][2] [~~wiki do markdown~~][1]
 ### en
->[Markdown-wiki][1]. [guide-Markdown][2] 
+>[~~Markdown-wiki~~][1]. [**Markdown-guide**][2] 
 
 [1]: http://en.wikipedia.org/wiki/Markdown  "Markdow"
 [2]: https://markdown-guide.readthedocs.io "markdown-guide"
