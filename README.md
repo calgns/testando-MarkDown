@@ -7,27 +7,29 @@ aprendendo markdown
 ##### cabeçalho 5 
 ###### cabeçalho 6 
 
---- 
-palavra 
----
-
 <!-- italico -->
 \*palavra\* em italico  
 _palavra_ em italico
 
 <!-- dobre e será strong -->
-\*\*palavra\*\* em italico  
-__palavra__ em italico
+\*\*palavra\*\* em strong 
+__palavra__ em strong
 
 <!-- linha no meio -->
-\\~\\~palavra\\~\\~ em perfurada  
+\~\~palavra\~\~ perfurada  
 
-~~palavra~~ em perfurada
-
----
+~~palavra~~ perfurada
 
 <!-- link -->
-> $[travesso](https://www.travesso.com "travesso...")
+> $[travesso](https://www.travesso.com "travesso...") 
+### pt-br
+> [guia de Markdown][2] [wiki do markdown][1]
+### en
+>[Markdown-wiki][1]. [guide-Markdown][2] 
+
+[1]: http://en.wikipedia.org/wiki/Markdown  "Markdow"
+[2]: https://markdown-guide.readthedocs.io "markdown-guide"
+
 
 <!-- ul -->
 * item 1
@@ -44,7 +46,7 @@ __palavra__ em italico
 <!-- inline code block -->
 `<p>um bloco de codigo em linha(paragrafo)</p>`
 
-<!-- imagens -->
+<!-- imagem -->
 ![logo Markdown](https://markdown-here.com/img/icon256.png "logo Mark")
 ---
 > ## BASH
@@ -87,7 +89,7 @@ code {
 );
 
 ```
----
+
 <!-- table -->
 | Name      |Email|
 |-----------|----------|
@@ -99,3 +101,8 @@ code {
 * [x] fazer 2
 * [ ] fazer 3
 * [ ] fazer 4
+* * * item 01
+
++ um
+- dois
+* tres
