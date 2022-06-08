@@ -106,3 +106,5 @@ code {
 + um
 - dois
 * tres
+
+feito com sucesso o revert na branch rever 
